@@ -12,7 +12,7 @@ Metrics Server can be deployed by enabling the add-on via the following.
 enable_metrics_server = true
 ```
 
-You can optionally customize the Helm chart that deploys External DNS via the following configuration.
+You can optionally customize the Helm chart that deploys Metrics Server via the following configuration.
 
 ```hcl
   enable_metrics_server = true
